@@ -33,7 +33,7 @@
     {
       "id": 6,
       "name": "Snooper Pooper",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://static01.nyt.com/images/2018/02/11/realestate/11dogs-topbreeds-Chihuahua/11dogs-topbreeds-Chihuahua-master495.jpg"
     },
     {
